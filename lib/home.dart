@@ -1,14 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:ourth_flutter_app_webview/webview.dart';
 
-class HomePage extends StatelessWidget {
-  const HomePage({super.key});
+class SplashScreen extends StatelessWidget {
+  const SplashScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: const Text('Ourth')),
-      body: Center(
+      body: 
+      // 버튼 눌러서 웹뷰 띄우기
+      Center(
         child: ElevatedButton(
           onPressed: () {
             Navigator.push(
