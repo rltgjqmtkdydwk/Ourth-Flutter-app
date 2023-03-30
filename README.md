@@ -1,4 +1,4 @@
-# Ourth - Flutter App
+# Ourth Flutter App 🌏
 GDSC Solution Challenge 2023
 
 ## Introduction
