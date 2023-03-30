@@ -1,8 +1,8 @@
-# 🌏urth-Flutter-App
+# Ourth-Flutter-App
 GDSC Solution Challenge 2023
 
 # Because It's Ours
-![img.png](img/ourth.png)
+![img.png](https://github.com/YehyeokBang/Ourth-Backend/blob/main/img/ourth.png?raw=true)
 
 ## Ourth-Info
 <B>"Ourth"</B> means <B>"Our + Earth."</B>
