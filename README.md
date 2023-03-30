@@ -11,7 +11,6 @@ Ourth is an app that provides everyday-friendly solutions for individuals to pro
 Before running the app, please ensure that your environment is properly set up. You will need to have the following installed:
 
 - Flutter SDK: https://flutter.dev/docs/get-started/install
-- Xcode: https://developer.apple.com/xcode/
 
 ## Running the App
 To run the app, please follow these steps:
